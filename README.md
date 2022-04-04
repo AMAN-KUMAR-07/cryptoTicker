@@ -1,16 +1,2 @@
-# crypto_ticker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ct1](https://user-images.githubusercontent.com/89792358/161614097-3a9325d3-8c77-4eba-b995-39adff3d59c6.jpg)
+![ct2](https://user-images.githubusercontent.com/89792358/161614118-7f340c87-8654-42fe-8149-2278bb6520cb.jpg)
